@@ -2,5 +2,5 @@
 
 This is the Official Organization for the Claude Bot!
 
-Website: https://docs.claude-bot.de/
+<br>Website: https://docs.claude-bot.de/</br>
 Support: https://invite.claude-bot.de/
